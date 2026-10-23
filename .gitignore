@@ -1,0 +1,13 @@
+# Данные: скачиваются с Kaggle, в репозиторий не кладём
+data/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
