@@ -11,3 +11,6 @@ data/
 __pycache__/
 .ipynb_checkpoints/
 .venv/
+
+# Личные заметки к собеседованию
+prep/
